@@ -4,7 +4,7 @@ This is Agency Project which is build using frontend tools like HTML/CSS/Javascr
 It is Full Responsive Frontend Website
 
 
-Note : Switch branch to master to sell all files
+Note : Switch branch to master to see all files
 
 
 ![indexpage](https://user-images.githubusercontent.com/51846543/137020694-fc466284-cf90-493f-9698-d7d33c230794.PNG)
